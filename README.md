@@ -5,4 +5,4 @@ ___
 	* Tells you if your box has been delivered 
 	* Track multiple orders in case if multiple people decide that they want to use the bot
 * Potenial Additions:
- 	* telling you when your box has not been delievered before 9PM (I guess the delivery company does not deliver after 9PM)
+ 	* Telling you when your box has not been delievered before 9PM (I guess the delivery company does not deliver after 9PM)
