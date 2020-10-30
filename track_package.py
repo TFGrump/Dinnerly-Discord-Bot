@@ -5,7 +5,7 @@ from time import sleep
 from discord.ext.commands import Bot
 import discord.ext.commands
 bot = Bot(command_prefix="_food_")
-TOKEN = 'NzY5NjU3NTAzOTg1ODI3OTEw.X5SNaA.V_M9DJ2CtJLvgxNyT-PQymmlmVk'
+TOKEN = ''  # Token for the discord bot
 
 tracking_numbers = []
 
