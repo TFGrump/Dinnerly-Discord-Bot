@@ -32,7 +32,7 @@ async def track_package(ctx, arg):
             for tracking_number in tracking_numbers:
                 await find_package(ctx, tracking_number)
 
-        sleep(600)
+        sleep(1800)
 
 
 @bot.event
